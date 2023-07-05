@@ -40,4 +40,3 @@ jobs:
           arguments: publish
         env:
           USERNAME: ${{ secrets.USERNAME }}
-          TOKEN: ${{ secrets.TOKEN }}
