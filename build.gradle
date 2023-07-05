@@ -26,7 +26,7 @@ publishing {
             url = "https://maven.pkg.github.com/revanthvijayakumar/GradleSample"
             credentials {
                 username = "revanthvijayakumar"
-                password = "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"
+//                password = "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"
             }
         }
     }
