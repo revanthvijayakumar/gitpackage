@@ -34,7 +34,7 @@ publishing {
         register("jar", MavenPublication) {
             from(components["java"])
             pom {
-                url.set("https://github.com/revanthvijayakumar/gitpackage.git")
+                url.set("https://github.com/revanthvijayakumar")
             }
         }
     }
